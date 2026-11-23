@@ -1,0 +1,15 @@
+# data (Kaggle rules: don't redistribute)
+HMSdata_prepared/
+data/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Mac
+.DS_Store
+
+# large outputs
+results/*.pkl
