@@ -1,8 +1,11 @@
-numpy
-pandas
-scikit-learn
-xgboost
-lightgbm
-matplotlib
-seaborn
-jupyter
+# Tested with Python 3.13.11. Exact versions matter: the selected features
+# can change with a different scikit-learn version.
+numpy==2.5.5
+pandas==3.1.1
+scipy==1.18.1
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.7.0
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter==1.1.1
